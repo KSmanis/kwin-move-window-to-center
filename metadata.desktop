@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Move Window to Center
 Comment=Centers the active window in the current screen.
-Icon=preferences-system-windows-script-test
+Icon=preferences-system-windows-move
 
 X-Plasma-API=javascript
 X-Plasma-MainScript=code/main.js
